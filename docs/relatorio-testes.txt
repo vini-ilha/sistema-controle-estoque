@@ -1,0 +1,22 @@
+RELATÓRIO DE EXECUÇÃO DOS TESTES
+
+Projeto: Sistema de Controle de Estoque
+
+Ferramenta utilizada:
+Pytest
+
+Comando executado:
+py -m pytest -v
+
+Resultado:
+8 testes executados
+8 testes aprovados
+0 testes reprovados
+tempo: 0.05s
+
+Os testes verificaram o cadastro de produtos, validações de dados,
+entrada e saída de estoque, tentativa de estoque negativo e busca
+por produto inexistente.
+
+Data da execução:
+11/09/2026
