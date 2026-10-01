@@ -1,6 +1,6 @@
 # Sistema de Controle de Estoque
 
-Projeto simples de um sistema de controle de estoque feito em Python.
+API REST para gerenciamento de produtos e controle de estoque.
 
 ## Objetivo
 
